@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/leonardonaokii/Automated-Videos/issues"
   },
-  "homepage": "https://github.com/leonardonaokii/Automated-Videos#readme"
+  "homepage": "https://github.com/leonardonaokii/Automated-Videos#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
 }
